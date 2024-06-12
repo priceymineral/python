@@ -1,4 +1,11 @@
-# python
-Excercises in Python
--Matplotlib
-  -widgets
+# Python
+
+## Excercises in Python
+
+### Matplotlib
+
+1. Widgets
+
+   - button
+
+   - slider
